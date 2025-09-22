@@ -18,11 +18,8 @@ A comprehensive password strength checking tool with both GUI and CLI interfaces
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/password-strength-checker.git
-cd password-strength-checker
-```
+1. Clone the repository
+
 
 2. Install dependencies:
 ```bash
@@ -119,10 +116,3 @@ The application logs all password checks to `password_checker.log` with the foll
 - tkinter (included in standard Python distribution)
 - zxcvbn
 
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
